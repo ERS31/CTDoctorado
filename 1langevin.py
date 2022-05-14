@@ -1,7 +1,3 @@
-'''
-Created on September 22, 2018
-@author: Andrew Abi-Mansour
-'''
 # !/usr/bin/python
 # -*- coding: utf8 -*-
 # -------------------------------------------------------------------------
